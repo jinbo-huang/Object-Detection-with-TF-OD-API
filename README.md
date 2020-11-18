@@ -64,6 +64,7 @@ You can open the jupyter notebook and execute it. The training time should be le
 
 ## TODO
 - [ ] Update the parsing xml function to support multiple objects in single image.
+- [ ] Upload images with multiple objects
 
 ## Contact me
-I'm activly looking for a machine learning engineer position. Please feel free to contact me if you think I'm a fit. Here is my [linkedin](https://www.linkedin.com/in/jinbo-huang). :) 
+I'm actively looking for a machine learning engineer position. Please feel free to contact me if you think I'm a fit. Here is my [linkedin](https://www.linkedin.com/in/jinbo-huang). :) 
