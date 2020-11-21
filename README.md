@@ -11,7 +11,7 @@ In this jupyter notebook, we first download and restore object detection head of
 - Jupyterlab or Jupyter notebook
 
 
-## Have a Peek
+## Take a Peek
 ### Ground Truth
 ![](readme_images/ground_truth.png)
 ### Predictions
