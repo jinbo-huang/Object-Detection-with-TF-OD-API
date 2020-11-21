@@ -4,7 +4,14 @@ This Project is based on the [Fine-tune a pre-trained detector in eager mode on 
 
 In this jupyter notebook, we first download and restore object detection head of the pre-trained model (SSD Resnet-50 in this example). Then, we fine-tune the classification head with our images. I already took some photos of my cute Crayon Shin-Chan stuffed toy. Feel free to use them if you don't have your own images.
 
-## Preview
+## Depencencies
+- Python 3
+- Tensorflow 2.2 or 2.3
+- Tensorflow Object Detection API
+- Jupyterlab or Jupyter notebook
+
+
+## Have a Peek
 ### Ground Truth
 ![](readme_images/ground_truth.png)
 ### Predictions
